@@ -1,0 +1,1 @@
+python evaluate.py --model ./checkpoints/City/City-final.pth --dataset MPFDataset --scene City

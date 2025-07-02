@@ -1,0 +1,1 @@
+python evaluate.py --model ./checkpoints/EFT/EFT-final.pth --dataset MPFDataset --scene EFT
