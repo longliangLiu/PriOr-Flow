@@ -71,7 +71,8 @@ python evaluate.py --model ./checkpoints/EFT/EFT-final.pth --dataset MPFDataset 
 ```
 
 ## 🍲 Training
-To train MonSter on MPFDataset or FlowScape, run:
+To train PriOr-RAFT on MPFDataset or FlowScape, you need to first download the RAFT pre-trained weights on FlyingThings and place them in the `./pretrained` directory, and then run:
+
 ``` Shell
 ./scripts/train_EFT.sh
 ./scripts/train_City.sh
