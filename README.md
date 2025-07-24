@@ -1,4 +1,4 @@
-# 🥳 PriOr-Flow（ICCV 2025）🥳
+# 🥳 PriOr-Flow（ICCV 2025 Highlight）🥳
 
 This repository contains the source code for our paper:
 
